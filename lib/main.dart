@@ -3,7 +3,7 @@ import 'package:quiz/start_screen.dart' ;
 
 void main() {
   runApp(
-     MaterialApp(
+     const MaterialApp(
       home : Scaffold(
         body : StartScreen() ,
       ),
