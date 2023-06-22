@@ -30,10 +30,8 @@
 ## Screenshots
 
 <img src="screenshots/start_page.png" alt="Quiz App Screenshot" width="400">
-
-![Quiz App Screenshot](screenshots/start_page.png)
-![Quiz App Screenshot](screenshots/result_page.png)
-![Quiz App Screenshot](screenshots/questions_page.png)
+<img src="screenshots/questions_page.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/results_page.png" alt="Quiz App Screenshot" width="400">
 
 ## Features
 
