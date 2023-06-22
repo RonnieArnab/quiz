@@ -31,7 +31,7 @@
 
 <img src="screenshots/start_page.png" alt="Quiz App Screenshot" width="400">
 <img src="screenshots/questions_page.png" alt="Quiz App Screenshot" width="400">
-<img src="screenshots/results_page.png" alt="Quiz App Screenshot" width="400">
+<img src="screenshots/result_page.png" alt="Quiz App Screenshot" width="400">
 
 ## Features
 
