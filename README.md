@@ -29,6 +29,8 @@
 
 ## Screenshots
 
+<img src="screenshots/start_page.png" alt="Quiz App Screenshot" width="400">
+
 ![Quiz App Screenshot](screenshots/start_page.png)
 ![Quiz App Screenshot](screenshots/result_page.png)
 ![Quiz App Screenshot](screenshots/questions_page.png)
