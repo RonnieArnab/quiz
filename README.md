@@ -43,9 +43,12 @@
 
 ## Installation
 
-1. Clone or download the repository to your local machine.
-2. Make sure you have Flutter and Dart SDK installed on your system.
-3. Run flutter pub get to fetch the project dependencies.
+1. Ensure you have Flutter installed on your machine. If not, follow the official Flutter installation guide to set it up.
+2. Clone this repository or download the source code.
+3. Open the project in your preferred IDE (e.g., Visual Studio Code).
+4. Run 'flutter pub get' to fetch the project dependencies.
+5. Connect a device or start an emulator.
+6. Run flutter run to launch the app on the connected device.
 
 ## Usage
 
